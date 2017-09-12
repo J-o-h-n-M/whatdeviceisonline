@@ -6,12 +6,19 @@ As a starting point I used this project : https://github.com/hotzenklotz/WhoIsHo
 But modified it to use Telegram in stead of Slack. And also made it work with the Raspbian distribution I have and Python 2.7.13.
 
 I am running it on: 
+
 PRETTY_NAME="Raspbian GNU/Linux 9 (stretch)"
+
 NAME="Raspbian GNU/Linux"
+
 VERSION_ID="9"
+
 VERSION="9 (stretch)"
+
 ID=raspbian
+
 ID_LIKE=debian
+
 
 
 Python 2.7.13
