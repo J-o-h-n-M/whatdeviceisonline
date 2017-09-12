@@ -1,0 +1,15 @@
+{  
+  "telegram" : {
+    "weburl" : "https://api.telegram.org/bot98765432:TELEGRAMKEY/sendmessage?text=",
+    "chatid" : "123456789"
+  },
+  "hosts" : {
+    "Fritzbox" : ["AA:BB:CC:DD:EE:FF"],
+	"Device1" : ["AA:BB:CC:DD:EE:FF"],
+	"Device2" : ["AA:BB:CC:DD:EE:FF"],
+	"Device3" : ["AA:BB:CC:DD:EE:FF"]
+  },
+  "hideifoffline" : {
+    "hoststohideifoffline" : ["Device1","Device3"]
+  }
+}
